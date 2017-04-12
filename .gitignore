@@ -1,0 +1,12 @@
+/.nrepl-port
+.hgignore
+.hg/
+
+/.lein-*
+/target
+/classes
+/checkouts
+/doc
+
+LICENSE
+*.md
